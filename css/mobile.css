@@ -1,0 +1,40 @@
+@media screen and (max-width: 767px) {
+  .lead {
+    font-size: 16px;
+  }
+
+  /* Navbar */
+  .nav-bar-link {
+    display: block;
+    padding: 0.5rem 0;
+  }
+
+  .interest .lead {
+    padding: 8px 16px;
+  }
+
+  .space-bottom {
+    padding-bottom: 24px;
+  }
+
+  .line-bottom-mb {
+    border-bottom: 1px solid #ff6b6b;
+  }
+
+  .p-interest {
+    padding: 0;
+    display: flex;
+    justify-content: space-around;
+  }
+
+  /* Footer */
+  #footer .container a {
+    text-decoration: none;
+    font-size: 14px;
+  }
+
+  .ic-footer {
+    font-size: 1.8rem;
+    color: #4dabf7;
+  }
+}

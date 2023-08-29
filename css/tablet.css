@@ -1,0 +1,100 @@
+@media screen and (min-width: 768px) and (max-width: 992px) {
+  .lead {
+    font-size: 16px;
+  }
+
+  .border {
+    height: 100%;
+  }
+
+  /* Navbar */
+  .nav-bar {
+    font-size: 0;
+    text-align: center;
+    border-bottom: 0.5px solid #dee2e6;
+  }
+
+  .nav-bar-link {
+    display: inline-block;
+    padding: 1rem 2rem;
+    border-right: 0.5px solid #dee2e6;
+  }
+
+  .nav-bar-link:first-child {
+    border-left: 0.5px solid #dee2e6;
+  }
+
+  /* About */
+
+  /* personal-info */
+
+  .p-interest {
+    padding: 0;
+    display: flex;
+    justify-content: space-around;
+  }
+
+  #personal-info .mt-40 .lead {
+    line-height: 1.6;
+  }
+
+  .interest .lead {
+    padding: 8px 5px;
+  }
+
+  .space-bottom {
+    padding-bottom: 24px;
+  }
+
+  .nospace {
+    padding-bottom: 0;
+  }
+
+  /* Certificate */
+  .line-right {
+    border-right: 1px solid #ffd43b;
+  }
+
+  .line-top {
+    border-top: 1px solid #ffd43b;
+  }
+
+  .line-bottom {
+    border-bottom: 1px solid #ffd43b;
+  }
+
+  /* Project */
+  .project {
+    display: inline-block;
+    width: 130px;
+    vertical-align: top;
+  }
+
+  .project-year {
+    display: inline-block;
+    vertical-align: top;
+    margin-bottom: 0;
+    margin-top: 10px;
+  }
+
+  .project-content {
+    display: inline-block;
+    width: 120px;
+    padding-right: 0px;
+  }
+
+  .line-xy {
+    height: 520px;
+  }
+
+  /* Footer */
+  #footer .container a {
+    text-decoration: none;
+    font-size: 16px;
+  }
+
+  .ic-footer {
+    font-size: 1.9rem;
+    color: #4dabf7;
+  }
+}

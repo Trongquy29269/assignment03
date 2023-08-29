@@ -1,0 +1,46 @@
+/* Digital-cv */
+
+@media screen and (min-width: 992px) {
+  #digital {
+    border: 8px solid blue;
+  }
+  .border-xy {
+    border: 4px solid blue;
+  }
+
+  .timeline {
+    height: 580px;
+  }
+
+  .goals {
+    height: 320px;
+  }
+
+  .scopes {
+    height: 260px;
+  }
+
+  .team {
+    height: 320px;
+  }
+
+  .primary {
+    height: 260px;
+  }
+
+  .lead {
+    font-size: 12px;
+  }
+
+  h5 {
+    font-size: 18px;
+  }
+
+  h6 {
+    font-size: 13px;
+  }
+
+  .space-4 {
+    padding: 0;
+  }
+}
