@@ -31,10 +31,11 @@
   #footer .container a {
     text-decoration: none;
     font-size: 14px;
+    display: none;
   }
 
   .ic-footer {
-    font-size: 1.8rem;
+    font-size: 44px;
     color: #4dabf7;
   }
 }
