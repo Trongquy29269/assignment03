@@ -95,14 +95,7 @@
 
 @media screen and (min-width: 1200px) {
   .line-xy {
-    height: 300px;
+    height: 320px;
   }
 }
 
-/* Digital-cv */
-
-@media screen and (min-width: 992px) {
-  .border-xy {
-    border: 10px solid blue;
-  }
-}
